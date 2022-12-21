@@ -1,0 +1,15 @@
+[Control Remoto]
+[Menu Service / Modo Servicio / Modo Fábrica]
+[Desactivar Modo Service / Factory Hotkey]
+[RESET / Restaurar a Valores de Fábrica]
+[Modificar Marca o Logo / Project ID]
+[Actualización de Firmware]
+[Firmware]
+ : Instalación Forzada!!
+[Datos de Memoria / DUMP]
+[Configurar mainboard]
+ : Configuración Project ID
+[Mediciones Eléctricas]
+[Bajar Corriente a LEDs / Backlight]
+[Informe Técnico]
+[Anexo]
